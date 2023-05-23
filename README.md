@@ -40,9 +40,7 @@ This repository contains a comprehensive guide to service mesh, exploring its ar
 5. [Real-World Use Cases for Service Mesh](#real-world-use-cases-for-service-mesh)
    - 5.1 [Blue-Green Deployments and Canary Releases](#blue-green-deployments-and-canary-releases)
    - 5.2 [A/B Testing and Feature Rollouts](#a-b-testing-and-feature-rollouts)
-   - 5.3 [Chaos Engineering and Fault Injection](#chaos-engineering-and-f
-
-ault-injection)
+   - 5.3 [Chaos Engineering and Fault Injection](#chaos-engineering-and-fault-injection)
    - 5.4 [Global Load Balancing and Traffic Shifting](#global-load-balancing-and-traffic-shifting)
    - 5.5 [Zero-Trust Networking and Secure Communication](#zero-trust-networking-and-secure-communication)
 
